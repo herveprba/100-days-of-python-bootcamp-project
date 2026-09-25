@@ -13,6 +13,7 @@ Welcome to my repository for [**100 Days of Code™: The Complete Python Pro Boo
 |   Day   | Project Name        | Core Concepts / Technologies                             |                 Code Link                 |
 |:-------:|:--------------------|:---------------------------------------------------------|:-----------------------------------------:|
 | **001** | Band Name Generator | Printing, String Manipulation, Input Function, Variables | [View Code](./day-01-band-name-generator) |
+| **002** | Tip Calculator | Primitive Data Types, Type Error, Type Checking, Type Conversion, Mathematical Operations, Number Manipulation, F Strings | [View Code](./day-02-tip-calculator) |
 
 ---
 
