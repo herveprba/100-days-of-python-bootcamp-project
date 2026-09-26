@@ -1,7 +1,7 @@
 # 🐍 100 Days of Code™: The Complete Python Pro Bootcamp Project
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
-![Progress](https://img.shields.io/badge/progress-4%2F100%20Days-brightgreen.svg)
+![Progress](https://img.shields.io/badge/progress-5%2F100%20Days-brightgreen.svg)
 ![Course](https://img.shields.io/badge/Course-Udemy-orange.svg)
 
 Welcome to my repository for [**100 Days of Code™: The Complete Python Pro Bootcamp**](https://www.udemy.com/course/100-days-of-code/) by Angela Yu on Udemy. This repository serves as a showcase of my daily progress, coding challenges, and capstone projects built over the 100-day journey.
@@ -16,6 +16,7 @@ Welcome to my repository for [**100 Days of Code™: The Complete Python Pro Boo
 | **002** | Tip Calculator | Primitive Data Types, Type Error, Type Checking, Type Conversion, Mathematical Operations, Number Manipulation, F Strings | [View Code](./day-02-tip-calculator) |
 | **003** | Treasure Island | Modulo, Control Flow & Conditional Operators, Logical Operators | [View Code](./day-03-treasure-island) |
 | **004** | Rock Paper Scissors | Module, Random Module, List & Nested List, IndexError | [View Code](./day-04-rock-paper-scissors) |
+| **005** | Password Generator | For Loop (For in List & For in Range), sum(), max() and random.shuffle() Functions | [View Code](./day-05-password-generator) |
 
 ---
 
